@@ -1,0 +1,16 @@
+Sans preselection:
+ -32p/bloc :2min 40s => 256 0.625s/bloc
+ -16p/bloc :4min 6s => 1024 0.24s/bloc
+ - 8p/bloc :15min => 4096 0.21s/bloc
+
+Avec preselection:
+ -32p/bloc :6.5s => 0.025s/bloc
+ -16p/bloc :1min 11s => 0.07s/bloc
+ - 8p/bloc :12min 26s => s/bloc
+
+liste des doublons : 
+ 6532<=>6533
+ 7175<=>7263
+ 7177<=>7265
+ 7577<=>7602
+ 7808<=>7856
